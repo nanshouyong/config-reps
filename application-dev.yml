@@ -12,7 +12,7 @@ spring:
     url: jdbc:mysql://root:Nsy@123456@192.168.80.145:3306/cloud?useUnicode=true&characterEncoding=UTF8&useSSL=false&autoReconnect=true
     driver-class-name: com.mysql.jdbc.Driver
     username: root
-    password: root
+    password: Nsy@123456
     max-idle: 10
     min-idle: 5
     test-on-borrow: false
